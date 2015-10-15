@@ -1,6 +1,6 @@
 /*  Program Name:  Photo Gallery Application
-    Author: 
-    Date:   
+    Author: Marielle Estrugo
+    Date: October 14, 2015
     Filename: zoom.js
  */
 
